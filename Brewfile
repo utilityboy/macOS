@@ -6,40 +6,53 @@ tap "homebrew/cask-versions"
 tap "homebrew/core"
 tap "homebrew/services"
 
-# Record and share terminal sessions
 brew "asciinema"
-# GNU File, Shell, and Text utilities
+brew "autoconf"
+brew "automake"
 brew "coreutils"
-# Get a file from an HTTP, HTTPS or FTP server
 brew "curl"
-# Collection of GNU find, xargs, and locate
 brew "findutils"
-# Graph visualization software from AT&T and Bell Labs
+brew "git"
+brew "gnupg"
+brew "graphviz"
+brew "kafka"
+brew "libtool"
+brew "libxslt"
+brew "libyaml"
 brew "maven"
-# Scalable distributed version control system
+brew "nginx"
+brew "openssl"
+brew "postgres"
+brew "readline"
 brew "redis"
-# User interface to the TELNET protocol (built from macOS Sierra sources)
 brew "telnet"
-# Display directories as trees (with optional color/HTML output)
 brew "tree"
-# Download YouTube videos from the command-line
+brew "wxmac"
+brew "unixodbc"
 brew "youtube-dl"
-# UNIX shell (command interpreter)
 brew "zsh"
-# The fastest shell plugin manager
+
 brew "getantibody/tap/antibody"
 
 cask "1password"
+cask "alfred"
 cask "appcleaner"
+cask "arq"
+cask "bettertouchtool"
+cask "dash"
 cask "docker"
-cask "fantastical"
 cask "font-anonymous-pro"
 cask "font-firacode-nerd-font"
 cask "font-firacode-nerd-font-mono"
+cask "gasmask"
+cask "gitup"
 cask "google-chrome"
+cask "grandperspective"
 cask "intellij-idea-ce"
 cask "iterm2-beta"
 cask "keepingyouawake"
+cask "microsoft-office"
+cask "moom"
 cask "postgres"
 cask "qlcolorcode"
 cask "qlimagesize"
@@ -49,6 +62,7 @@ cask "qlstephen"
 cask "quicklook-csv"
 cask "quicklook-json"
 cask "slack"
+cask "shimo"
 cask "spotify"
 cask "viscosity"
 cask "visual-studio-code"
