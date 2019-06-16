@@ -35,6 +35,7 @@ brew "zsh"
 brew "getantibody/tap/antibody"
 
 cask "1password"
+cask "adoptopenjdk8"
 cask "alfred"
 cask "appcleaner"
 cask "arq"
